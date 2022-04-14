@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.32228.343
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviewCode", "InterviewCode.csproj", "{B5DCD590-EDAC-445F-BD42-B107F700E92F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProducerConsumer", "..\ProducerConsumer\ProducerConsumer.csproj", "{41BA7F71-4D99-4FCA-87AF-2C46662AF1F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProducerConsumer", "..\ProducerConsumer\ProducerConsumer.csproj", "{41BA7F71-4D99-4FCA-87AF-2C46662AF1F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternMatching", "..\PatternMatching\PatternMatching.csproj", "{77CABCB6-2C90-4928-AD5B-E0C32DEDE9FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{41BA7F71-4D99-4FCA-87AF-2C46662AF1F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41BA7F71-4D99-4FCA-87AF-2C46662AF1F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41BA7F71-4D99-4FCA-87AF-2C46662AF1F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77CABCB6-2C90-4928-AD5B-E0C32DEDE9FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77CABCB6-2C90-4928-AD5B-E0C32DEDE9FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77CABCB6-2C90-4928-AD5B-E0C32DEDE9FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77CABCB6-2C90-4928-AD5B-E0C32DEDE9FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
