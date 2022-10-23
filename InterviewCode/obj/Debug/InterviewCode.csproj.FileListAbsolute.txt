@@ -1,0 +1,6 @@
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\InterviewCode\obj\Debug\InterviewCode.csproj.CoreCompileInputs.cache
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\InterviewCode\bin\Debug\InterviewCode.exe
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\InterviewCode\bin\Debug\InterviewCode.pdb
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\InterviewCode\obj\Debug\InterviewCode.exe
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\InterviewCode\obj\Debug\InterviewCode.pdb
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\InterviewCode\obj\Debug\InterviewCode.csproj.AssemblyReference.cache

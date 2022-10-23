@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JMCyyLmd5JjjGml1JR+ZPkXckzDvyYLEftZCROxhYZx+FYmE4WrJBsvYElUGPdc/6oRQoD+UsV6t10SoJ7sSCA==",
+  "success": true,
+  "projectFilePath": "C:\\Code\\Reviewsamples.suds05.github.com\\ReviewSamples\\ProducerConsumer\\ProducerConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SUDHAKAN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\SUDHAKAN\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\SUDHAKAN\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
