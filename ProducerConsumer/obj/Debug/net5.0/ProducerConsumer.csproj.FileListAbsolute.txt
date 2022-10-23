@@ -1,0 +1,16 @@
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\ProducerConsumer\bin\Debug\net5.0\ProducerConsumer.exe
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\ProducerConsumer\bin\Debug\net5.0\ProducerConsumer.deps.json
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\ProducerConsumer\bin\Debug\net5.0\ProducerConsumer.runtimeconfig.json
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\ProducerConsumer\bin\Debug\net5.0\ProducerConsumer.runtimeconfig.dev.json
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\ProducerConsumer\bin\Debug\net5.0\ProducerConsumer.dll
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\ProducerConsumer\bin\Debug\net5.0\ref\ProducerConsumer.dll
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\ProducerConsumer\bin\Debug\net5.0\ProducerConsumer.pdb
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\ProducerConsumer\obj\Debug\net5.0\ProducerConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\ProducerConsumer\obj\Debug\net5.0\ProducerConsumer.AssemblyInfoInputs.cache
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\ProducerConsumer\obj\Debug\net5.0\ProducerConsumer.AssemblyInfo.cs
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\ProducerConsumer\obj\Debug\net5.0\ProducerConsumer.csproj.CoreCompileInputs.cache
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\ProducerConsumer\obj\Debug\net5.0\ProducerConsumer.dll
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\ProducerConsumer\obj\Debug\net5.0\ref\ProducerConsumer.dll
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\ProducerConsumer\obj\Debug\net5.0\ProducerConsumer.pdb
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\ProducerConsumer\obj\Debug\net5.0\ProducerConsumer.genruntimeconfig.cache
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\ProducerConsumer\obj\Debug\net5.0\ProducerConsumer.csproj.AssemblyReference.cache

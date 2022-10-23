@@ -1,0 +1,16 @@
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\PatternMatching\bin\Debug\net5.0\PatternMatching.exe
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\PatternMatching\bin\Debug\net5.0\PatternMatching.deps.json
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\PatternMatching\bin\Debug\net5.0\PatternMatching.runtimeconfig.json
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\PatternMatching\bin\Debug\net5.0\PatternMatching.runtimeconfig.dev.json
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\PatternMatching\bin\Debug\net5.0\PatternMatching.dll
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\PatternMatching\bin\Debug\net5.0\ref\PatternMatching.dll
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\PatternMatching\bin\Debug\net5.0\PatternMatching.pdb
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\PatternMatching\obj\Debug\net5.0\PatternMatching.csproj.AssemblyReference.cache
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\PatternMatching\obj\Debug\net5.0\PatternMatching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\PatternMatching\obj\Debug\net5.0\PatternMatching.AssemblyInfoInputs.cache
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\PatternMatching\obj\Debug\net5.0\PatternMatching.AssemblyInfo.cs
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\PatternMatching\obj\Debug\net5.0\PatternMatching.csproj.CoreCompileInputs.cache
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\PatternMatching\obj\Debug\net5.0\PatternMatching.dll
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\PatternMatching\obj\Debug\net5.0\ref\PatternMatching.dll
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\PatternMatching\obj\Debug\net5.0\PatternMatching.pdb
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\PatternMatching\obj\Debug\net5.0\PatternMatching.genruntimeconfig.cache

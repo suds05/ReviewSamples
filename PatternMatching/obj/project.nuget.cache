@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2vTEdN7D3UmhQhZSgChRtjtqVAtHU4FQEtsw4MohUnlhtjHTSYvd91VpJkmIyCqrOgKihjkoGr/5B00yU3Wkqw==",
+  "success": true,
+  "projectFilePath": "C:\\Code\\Reviewsamples.suds05.github.com\\ReviewSamples\\PatternMatching\\PatternMatching.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SUDHAKAN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\SUDHAKAN\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\SUDHAKAN\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

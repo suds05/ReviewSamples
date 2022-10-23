@@ -1,0 +1,16 @@
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\WindowWithAllTokens\bin\Debug\net5.0\WindowWithAllTokens.exe
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\WindowWithAllTokens\bin\Debug\net5.0\WindowWithAllTokens.deps.json
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\WindowWithAllTokens\bin\Debug\net5.0\WindowWithAllTokens.runtimeconfig.json
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\WindowWithAllTokens\bin\Debug\net5.0\WindowWithAllTokens.runtimeconfig.dev.json
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\WindowWithAllTokens\bin\Debug\net5.0\WindowWithAllTokens.dll
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\WindowWithAllTokens\bin\Debug\net5.0\ref\WindowWithAllTokens.dll
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\WindowWithAllTokens\bin\Debug\net5.0\WindowWithAllTokens.pdb
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\WindowWithAllTokens\obj\Debug\net5.0\WindowWithAllTokens.csproj.AssemblyReference.cache
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\WindowWithAllTokens\obj\Debug\net5.0\WindowWithAllTokens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\WindowWithAllTokens\obj\Debug\net5.0\WindowWithAllTokens.AssemblyInfoInputs.cache
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\WindowWithAllTokens\obj\Debug\net5.0\WindowWithAllTokens.AssemblyInfo.cs
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\WindowWithAllTokens\obj\Debug\net5.0\WindowWithAllTokens.csproj.CoreCompileInputs.cache
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\WindowWithAllTokens\obj\Debug\net5.0\WindowWithAllTokens.dll
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\WindowWithAllTokens\obj\Debug\net5.0\ref\WindowWithAllTokens.dll
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\WindowWithAllTokens\obj\Debug\net5.0\WindowWithAllTokens.pdb
+C:\Code\Reviewsamples.suds05.github.com\ReviewSamples\WindowWithAllTokens\obj\Debug\net5.0\WindowWithAllTokens.genruntimeconfig.cache
