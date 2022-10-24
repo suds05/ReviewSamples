@@ -20,12 +20,23 @@ namespace WindowMatcher
         public static void RunTest2()
         {
             var wm = new WindowMatcher<char>(
-                new List<char>() { 'a', 'x', 'x', 'b', 'x', 'a', 'x', 'x', 'a', 'b', 'x', 'c', 'x', 'x', 'a', 'b', 'c' },
-                new HashSet<char>() { 'a', 'b', 'c' });
+                new List<char>("axxbxaxxabxcxxabc"), 
+                new HashSet<char>("abc"));
 
             var w = wm.Scan();
 
             Trace.Assert(w.Left == 14 && w.Right == 16, "Window should be [14, 16]");
+        }
+
+        public static void RunTest3()
+        {
+            var wm = new WindowMatcher<char>(
+                new List<char>("a..b..c.a.b..c"), 
+                new HashSet<char>("abc"));
+
+            var w = wm.Scan();
+            
+            Trace.Assert(w.Left == 6 && w.Right == 10, "Window should be [6, 10]");
         }
     }
 }

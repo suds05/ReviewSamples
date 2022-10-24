@@ -8,6 +8,7 @@ namespace WindowMatcher
         {
             Test.RunTest1();
             Test.RunTest2();
+            Test.RunTest3();
         }
     }
 }
