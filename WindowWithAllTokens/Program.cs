@@ -6,7 +6,9 @@ namespace WindowMatcher
     {
         static void Main(string[] args)
         {
-            Test.RunTest();
+            Test.RunTest1();
+            Test.RunTest2();
+            Test.RunTest3();
         }
     }
 }
